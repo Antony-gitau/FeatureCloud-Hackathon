@@ -1,4 +1,4 @@
-# [FeatureCloud-Hackathon](https://featurecloud.ai/hackathon-2022)
+# [FeatureCloud-Hackathon](https://featurecloud.ai/hackathon-2022) ([Announcement](https://featurecloud.medium.com/deadline-to-apply-for-a-travel-scholarship-is-this-friday-29-april-af9dfc72d8e5))
 Documentation of my team work during the FeatureCloud Hackathon
 
 FeatureCloud is a platform for federated and privacy-preserving AI in biomedicine, enabling straightforward development and execution of federated AI methods as apps.
